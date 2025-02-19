@@ -4,12 +4,11 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaDownload } from "react-icons/fa";
 import { Button } from "./ui/button";
 export default function ProfileSection() {
   return (
-    <div className="w-full mx-auto container ">
-      <h1>Profile Section</h1>
-      <div className="flex flex-row justify-center items-center gap-8 m-6">
-        <div className="justify-center items-center py-24 px-14">
+    <div className=" mx-auto container ">
+      <div className="flex flex-col md:flex-row justify-center items-center gap-8">
+        <div className="justify-center items-center py-18 px-14">
           <Image
-            src="/profileimg.jpg"
+            src="/profileimg2.jpg"
             alt="Rhea Mane"
             width={450}
             height={450}
