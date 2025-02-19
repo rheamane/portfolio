@@ -20,6 +20,7 @@ export default function Research() {
                 width={300}
                 height={300}
                 className="rounded-md"
+                unoptimized
               />
               <a
                 href="HonorsThesis_RheaMane.pdf"
@@ -63,6 +64,7 @@ export default function Research() {
                 width={300}
                 height={300}
                 className="rounded-md"
+                unoptimized
               />
               <a
                 href="ModellingMisinformation_RheaMane.pdf"

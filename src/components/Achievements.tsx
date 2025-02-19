@@ -23,6 +23,7 @@ export default function Achievements() {
                     width={250}
                     height={250}
                     className="rounded-md"
+                    unoptimized
                   />
                   <h4 className="text-md font-semibold">
                    Summa Cum Laude B.S. Computer Science with Honors 
@@ -41,6 +42,7 @@ export default function Achievements() {
                     width={250}
                     height={250}
                     className="rounded-md"
+                    unoptimized
                   />
                   <h4 className="text-md font-semibold">
                    Dean&apos;s List Fall 2024
@@ -59,6 +61,7 @@ export default function Achievements() {
                     width={250}
                     height={250}
                     className="rounded-md"
+                    unoptimized
                   />
                   <h4 className="text-md font-semibold">
                     Women in Computer Science Annual Coding Competition - 7 th
@@ -78,6 +81,7 @@ export default function Achievements() {
                     width={250}
                     height={250}
                     className="rounded-md"
+                    unoptimized
                   />
                   <h4 className="text-md font-semibold">
                     Women in Computer Science Annual Coding Competition - Top
@@ -97,6 +101,7 @@ export default function Achievements() {
                     width={250}
                     height={250}
                     className="rounded-md"
+                    unoptimized
                   />
                   <h4 className="text-md font-semibold">
                     Sun Hacks Hackathon at Arizona State University - Winner for

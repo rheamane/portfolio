@@ -13,6 +13,7 @@ export default function ProfileSection() {
             width={450}
             height={450}
             className="rounded-full"
+            unoptimized
           />
         </div>
 
