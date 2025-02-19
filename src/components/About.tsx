@@ -14,7 +14,7 @@ export default function About() {
         </p>
         <p className="font-serif">
           I&apos;ve gained hands-on experience through internships at Ricoh USA
-          and Drive Insight LLC, working on Agile process optimization, web
+          and Drive Insight, working on Agile process optimization, web
           application development, and user-centric UI/UX design. I thrive in
           collaborative environments and enjoy applying my technical skills to
           solve real-world problems. Beyond my coursework and work experience,

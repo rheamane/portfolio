@@ -60,7 +60,7 @@ export default function WorkExp() {
         <CardHeader className="font-semibold text-lg">
           Technical Intern
           <CardDescription>
-            Drive Insight LLC, Tempe, AZ (Remote) • Sep 2024 - Nov 2024
+            Drive Insight, Tempe, AZ (Remote) • Sep 2024 - Nov 2024
           </CardDescription>
         </CardHeader>
         <CardContent className="text-gray-800 text-md font-serif">
