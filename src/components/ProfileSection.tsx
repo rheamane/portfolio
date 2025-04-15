@@ -8,7 +8,7 @@ export default function ProfileSection() {
       <div className="flex flex-col md:flex-row justify-center items-center gap-8">
         <div className="justify-center items-center py-18 px-14">
           <Image
-            src="/profileimg3.jpg"
+            src="/portfolio-website/profileimg3.jpg"
             alt="Rhea Mane"
             width={450}
             height={450}

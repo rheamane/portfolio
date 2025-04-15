@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
     output: "export",
     reactStrictMode: true,
     trailingSlash: true, 
+    basePath: "/portfolio-website",
 };
 
 export default nextConfig;

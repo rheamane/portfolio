@@ -15,7 +15,7 @@ export default function Research() {
           <CardContent>
             <div className="flex flex-col gap-2 justify-center items-center font-serif">
               <Image
-                src={"/paper1.png"}
+                src={"/portfolio-website/paper1.png"}
                 alt="paper1"
                 width={300}
                 height={300}
@@ -59,7 +59,7 @@ export default function Research() {
           <CardContent>
             <div className="flex flex-col gap-2 justify-center items-center font-serif">
               <Image
-                src={"/paper2.png"}
+                src={"/portfolio-website/paper2.png"}
                 alt="paper2"
                 width={300}
                 height={300}

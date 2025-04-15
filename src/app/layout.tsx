@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Rhea Mane",
+  icons: {
+    icon: "/portfolio-website/rhea_favicon.png",
+  },
 };
 
 export default function RootLayout({

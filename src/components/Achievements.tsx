@@ -13,12 +13,12 @@ export default function Achievements() {
       <h2 className="text-4xl font-bold text-gray-800">Achievements</h2>
       <Carousel>
         <CarouselContent className="items-center">
-        <CarouselItem className="md:basis-1/2 lg:basis-1/3">
+          <CarouselItem className="md:basis-1/2 lg:basis-1/3">
             <Card className="bg-gray-100 p-3">
               <CardContent className="text-gray-800 text-md font-serif">
                 <div className="flex flex-col gap-5 justify-between items-center">
                   <Image
-                    src={"/degree.png"}
+                    src={"/portfolio-website/degree.png"}
                     alt="degree"
                     width={250}
                     height={250}
@@ -26,7 +26,7 @@ export default function Achievements() {
                     unoptimized
                   />
                   <h4 className="text-md font-semibold">
-                   Summa Cum Laude B.S. Computer Science with Honors 
+                    Summa Cum Laude B.S. Computer Science with Honors
                   </h4>
                 </div>
               </CardContent>
@@ -37,7 +37,7 @@ export default function Achievements() {
               <CardContent className="text-gray-800 text-md font-serif">
                 <div className="flex flex-col gap-5 justify-between items-center">
                   <Image
-                    src={"/deanslistf24.png"}
+                    src={"/portfolio-website/deanslistf24.png"}
                     alt="degree"
                     width={250}
                     height={250}
@@ -45,7 +45,7 @@ export default function Achievements() {
                     unoptimized
                   />
                   <h4 className="text-md font-semibold">
-                   Dean&apos;s List Fall 2024
+                    Dean&apos;s List Fall 2024
                   </h4>
                 </div>
               </CardContent>
@@ -56,7 +56,7 @@ export default function Achievements() {
               <CardContent className="text-gray-800 text-md font-serif">
                 <div className="flex flex-col gap-5 justify-between items-center">
                   <Image
-                    src={"/achieve1.jpg"}
+                    src={"/portfolio-website/achieve1.jpg"}
                     alt="achieve1"
                     width={250}
                     height={250}
@@ -76,7 +76,7 @@ export default function Achievements() {
               <CardContent className="text-gray-800 text-md font-serif">
                 <div className="flex flex-col gap-5 justify-between items-center">
                   <Image
-                    src={"/achieve2.jpg"}
+                    src={"/portfolio-website/achieve2.jpg"}
                     alt="achieve2"
                     width={250}
                     height={250}
@@ -96,7 +96,7 @@ export default function Achievements() {
               <CardContent className="text-gray-800 text-md font-serif">
                 <div className="flex flex-col gap-5 justify-between items-center">
                   <Image
-                    src={"/achieve3.jpg"}
+                    src={"/portfolio-website/achieve3.jpg"}
                     alt="achieve3"
                     width={250}
                     height={250}
