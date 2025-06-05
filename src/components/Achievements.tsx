@@ -7,23 +7,23 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 import Image from "next/image";
+
 export default function Achievements() {
   return (
     <div className="flex flex-col gap-4 mx-auto container" id="achievements">
       <h2 className="text-4xl font-bold text-gray-800">Achievements</h2>
       <Carousel>
-        <CarouselContent className="items-center">
+        <CarouselContent className="">
           <CarouselItem className="md:basis-1/2 lg:basis-1/3">
             <Card className="bg-gray-100 p-3">
               <CardContent className="text-gray-800 text-md font-serif">
                 <div className="flex flex-col gap-5 justify-between items-center">
                   <Image
-                    src={"/portfolio-website/degree.png"}
+                    src="/degree.png"
                     alt="degree"
                     width={250}
                     height={250}
                     className="rounded-md"
-                    unoptimized
                   />
                   <h4 className="text-md font-semibold">
                     Summa Cum Laude B.S. Computer Science with Honors
@@ -37,12 +37,11 @@ export default function Achievements() {
               <CardContent className="text-gray-800 text-md font-serif">
                 <div className="flex flex-col gap-5 justify-between items-center">
                   <Image
-                    src={"/portfolio-website/deanslistf24.png"}
+                    src="/deanslistf24.png"
                     alt="degree"
                     width={250}
                     height={250}
                     className="rounded-md"
-                    unoptimized
                   />
                   <h4 className="text-md font-semibold">
                     Dean&apos;s List Fall 2024
@@ -56,12 +55,11 @@ export default function Achievements() {
               <CardContent className="text-gray-800 text-md font-serif">
                 <div className="flex flex-col gap-5 justify-between items-center">
                   <Image
-                    src={"/portfolio-website/achieve1.jpg"}
+                    src="/achieve1.jpg"
                     alt="achieve1"
                     width={250}
                     height={250}
                     className="rounded-md"
-                    unoptimized
                   />
                   <h4 className="text-md font-semibold">
                     Women in Computer Science Annual Coding Competition - 7 th
@@ -76,12 +74,11 @@ export default function Achievements() {
               <CardContent className="text-gray-800 text-md font-serif">
                 <div className="flex flex-col gap-5 justify-between items-center">
                   <Image
-                    src={"/portfolio-website/achieve2.jpg"}
+                    src="/achieve2.jpg"
                     alt="achieve2"
                     width={250}
                     height={250}
                     className="rounded-md"
-                    unoptimized
                   />
                   <h4 className="text-md font-semibold">
                     Women in Computer Science Annual Coding Competition - Top
@@ -96,12 +93,11 @@ export default function Achievements() {
               <CardContent className="text-gray-800 text-md font-serif">
                 <div className="flex flex-col gap-5 justify-between items-center">
                   <Image
-                    src={"/portfolio-website/achieve3.jpg"}
+                    src="/achieve3.jpg"
                     alt="achieve3"
                     width={250}
                     height={250}
                     className="rounded-md"
-                    unoptimized
                   />
                   <h4 className="text-md font-semibold">
                     Sun Hacks Hackathon at Arizona State University - Winner for
